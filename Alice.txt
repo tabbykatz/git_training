@@ -4,3 +4,4 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Making some changes on the gui
 
 More gui changes but I have unpushed changes on the same file locally. 
+Here is some more text
