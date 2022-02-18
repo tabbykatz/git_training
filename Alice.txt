@@ -6,3 +6,4 @@ Making some changes on the gui
 More gui changes but I have unpushed changes on the same file locally. 
 Here is some more text
 Adding a change on the change alice branch
+Made this change, enjoy!
