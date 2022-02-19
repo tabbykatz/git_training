@@ -1,3 +1,5 @@
+interactive rebase change 2
+
 Hi. I'm Bob. I've been here for awhile now.  
 Hi. I'm Bobby. I'm new here. 
 Some more text.
